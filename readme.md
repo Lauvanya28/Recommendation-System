@@ -1,8 +1,10 @@
 # Simple Recommender System: Online Retail Data
 
 • Identified popular items globally, country-wise, and month-wise, boosting item discovery.
+
 • Improved similar user preferences using a user-item matrix structure, representing interactions between
 users and items, with a focus on users with a correlation of 65% or more with 13,246 users.
+
 • Achieved a recommendation improvement of approximately 25% based on computed similarity matrix and user
 engagement metrics, including Kendall’s tau correlation.
 
